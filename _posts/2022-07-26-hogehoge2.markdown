@@ -1,0 +1,9 @@
+---
+layout: post
+title: "My hoge2"
+date: 2022-07-26
+categories: tech knowledge
+---
+
+ほげほげです！
+ほげほげです！
